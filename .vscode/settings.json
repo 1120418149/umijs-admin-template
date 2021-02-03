@@ -1,0 +1,6 @@
+{
+  "docthis.inferTypesFromNames": true,
+  "docthis.includeAuthorTag": true,
+  "docthis.includeDateTag": true,
+  "docthis.includeDescriptionTag": true
+}
